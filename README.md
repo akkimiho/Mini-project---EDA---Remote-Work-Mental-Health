@@ -1,4 +1,4 @@
-# Mini-project---EDA---Remote-Work-Mental-Health
+# Project---EDA---Remote-Work-Mental-Health
 
 Dataset: https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health
 
@@ -20,9 +20,34 @@ Columns in dataset:
 -  Social_Isolation_Rating: A self-reported rating (1-5) on how isolated they feel.
 -  Satisfaction_with_Remote_Work: How satisfied they are with remote work arrangements (Satisfied, Neutral, Unsatisfied).
 
-  Plan of Project:
+  <b> Plan of Project: </b>
   1. Data Exploration.
   2. Data Cleaning.
   3. Formulation of Research Questions.
-  4. Customer segmentation.
-  5. Search final insights.
+  4. Comparative Analysis  
+  5. Correlation Studies
+  6. Cluster Analysis
+  7. Regression Analysis
+  8. Search final insights.
+
+### Plan of Project:
+  1. Data Preprocessing
+  2. Data Cleaning.
+  3. Exploratory Data Analysis
+  4. Formulation of Research Questions.
+  5. Comparative Analysis
+     
+     Comparing stress levels between remote, hybrid, and onsite workers.
+     
+  6. Correlation Studies
+     
+     Examining correlations between social isolation and stress and correlation between job satisfaction across work locations.
+     
+  7. Cluster Analysis
+
+     Segmenting employees by stress level, satisfaction, or isolation ratings to identify common profiles.
+     
+  8. Regression Analysis
+     
+     Running regression models to determine factors contributing most to job satisfaction and mental well-being.
+  9. Search final insights.
