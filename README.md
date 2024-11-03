@@ -20,34 +20,49 @@ Columns in dataset:
 -  Social_Isolation_Rating: A self-reported rating (1-5) on how isolated they feel.
 -  Satisfaction_with_Remote_Work: How satisfied they are with remote work arrangements (Satisfied, Neutral, Unsatisfied).
 
-  <b> Plan of Project: </b>
+## Problem Formulation:
+### Company has observed a rising concern regarding the mental well-being of our remote workforce. Specifically, there appear to be increased stress levels, reports of social isolation, and overall dissatisfaction with work-life balance. These factors may negatively influence productivity, team morale, and ultimately, employee retention.
+
+### To address these concerns, company require a comprehensive analysis to uncover the root causes and identify key drivers behind these trends. Additionally, we are interested in determining if specific roles, age groups, or genders are particularly affected, as well as exploring the influence of regional and departmental differences.
+
+Tasks:
+1.Identify Factors Affecting Stress Levels
+2.Examine Satisfaction with Work-Life Balance
+3.Investigate the extent of social isolation reported by employees and identify which work arrangements (remote, hybrid, onsite) are linked with higher isolation ratings.
+4.Identify At-Risk Groups:highlight any patterns of stress or dissatisfaction by age, gender, or department to ensure tailored support can be provided where needed.
+
+
+
+### Plan of Project:
   1. Data Exploration.
   2. Data Cleaning.
-  3. Formulation of Research Questions.
-  4. Comparative Analysis  
-  5. Correlation Studies
-  6. Cluster Analysis
-  7. Regression Analysis
-  8. Search final insights.
+  3. Exploratory Data Analysis(EDA)
+  4. Formulation of Research Questions.
+  5. Comparative Analysis  
+  6. Correlation Studies
+  7. Cluster Analysis
+  8. Regression Analysis
+  9. Search final insights.
 
 ### Plan of Project:
   1. Data Preprocessing
   2. Data Cleaning.
-  3. Exploratory Data Analysis
-  4. Formulation of Research Questions.
-  5. Comparative Analysis
+  3. Exploratory Data Analysis(EDA)
+  4. Formulation of Research Questions. -Research questions:
+  6. Comparative Analysis
      
      Comparing stress levels between remote, hybrid, and onsite workers.
      
-  6. Correlation Studies
+  7. Correlation Studies
      
      Examining correlations between social isolation and stress and correlation between job satisfaction across work locations.
      
-  7. Cluster Analysis
+  8. Cluster Analysis
 
      Segmenting employees by stress level, satisfaction, or isolation ratings to identify common profiles.
      
-  8. Regression Analysis
+  9. Regression Analysis
      
      Running regression models to determine factors contributing most to job satisfaction and mental well-being.
-  9. Search final insights.
+     
+  10. Search final insights.
