@@ -21,7 +21,7 @@ Columns in dataset:
 -  Satisfaction_with_Remote_Work: How satisfied they are with remote work arrangements (Satisfied, Neutral, Unsatisfied).
 
 ## Problem Formulation:
-### Company has observed a rising concern regarding the mental well-being of our remote workforce. Specifically, there appear to be increased stress levels, reports of social isolation, and overall dissatisfaction with work-life balance. These factors may negatively influence productivity, team morale, and ultimately, employee retention.
+### Company has observed increasing concerns regarding the mental well-being and satisfaction levels among our remote workforce. Reports indicate rising stress levels, a sense of social isolation, and dissatisfaction with work-life balance in certain roles and departments. These issues could impact employee engagement, retention, and overall team morale if not addressed appropriately.
 
 ### To address these concerns, company require a comprehensive analysis to uncover the root causes and identify key drivers behind these trends. Additionally, we are interested in determining if specific roles, age groups, or genders are particularly affected, as well as exploring the influence of regional and departmental differences.
 
